@@ -39,6 +39,7 @@ local ui = require "ui"
 
 * [Object](Object.md)
 * [Component](Component.md)
+* [Window](Window.md)
 * [Loader](Loader.md)
 * [List](List.md)
 * [TextField](TextField.md)

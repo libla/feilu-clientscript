@@ -12,6 +12,7 @@
     * [TextInput](FairyGUI/TextInput.md)
     * [RichTextField](FairyGUI/RichTextField.md)
     * [EventType](FairyGUI/EventType.md)
+    * [PopupDirection](FairyGUI/PopupDirection.md)
     * [EventContext](FairyGUI/EventContext.md)
     * [EventDispatcher](FairyGUI/EventDispatcher.md)
     * [Color](FairyGUI/Color.md)
