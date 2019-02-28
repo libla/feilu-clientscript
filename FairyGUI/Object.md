@@ -4,8 +4,8 @@
 
 ## 成员
 
-* x 横座标
-* y 纵座标
+* x 横坐标
+* y 纵坐标
 * width 宽
 * height 高
 * scaleX 横向缩放
