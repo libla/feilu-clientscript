@@ -3,9 +3,11 @@
 继承自Object
 
 ## 静态
+
 * new() 构造函数
 
 ## 成员
+
 * addChild(Object) 添加子控件
 * addChild(Object, int) 添加子控件到指定顺序
 * removeChild(Object) 删除指定的子控件
