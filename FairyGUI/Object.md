@@ -21,8 +21,8 @@
 * tooltips 悬浮提示文本
 * parent 所在父组件
 * removeFromParent() 从父组件移除自己
-* popup([target[, dir]) 弹出控件，可选参数位置和方向
-* togglePopup([target[, dir]) 弹出或关闭控件，可选参数位置和方向
+* popup([Object[, PopupDirection]) 弹出控件，可选参数：位置和方向
+* togglePopup([Object[, PopupDirection]) 弹出或关闭控件，可选参数：位置和方向
 * hidePopup() 关闭弹出
 * center() 居中显示
 * name 名字
