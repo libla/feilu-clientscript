@@ -4,6 +4,7 @@
 * [FairyGUI接口](FairyGUI/README.md)
     * [Object](FairyGUI/Object.md)
     * [Component](FairyGUI/Component.md)
+    * [Window](FairyGUI/Window.md)
     * [Graph](FairyGUI/Graph.md)
     * [Loader](FairyGUI/Loader.md)
     * [List](FairyGUI/List.md)
