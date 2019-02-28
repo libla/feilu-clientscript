@@ -10,6 +10,7 @@
     * [List](FairyGUI/List.md)
     * [TextField](FairyGUI/TextField.md)
     * [TextInput](FairyGUI/TextInput.md)
+    * [RichTextField](FairyGUI/RichTextField.md)
     * [EventType](FairyGUI/EventType.md)
     * [EventContext](FairyGUI/EventContext.md)
     * [EventDispatcher](FairyGUI/EventDispatcher.md)

@@ -3,6 +3,7 @@
 继承自EventDispatcher
 
 ## 成员
+
 * x 横座标
 * y 纵座标
 * width 宽
@@ -25,6 +26,12 @@
 * hidePopup() 关闭弹出
 * center() 居中显示
 * name 名字
+* asTextField 转换成TextField
+* asTextInput 转换成TextInput
+* asRichTextField 转换成RichTextField
+* asGraph 转换成Graph
+* asLoader 转换成Loader
+* asList 转换成List
 * asComponent 转换成Component
 * asLabel 转换成Label
 * asButton 转换成Button
