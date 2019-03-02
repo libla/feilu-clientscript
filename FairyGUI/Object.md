@@ -26,6 +26,7 @@
 * hidePopup() 关闭弹出
 * center() 居中显示
 * name 名字
+* data 关联的任意lua值
 * asTextField 转换成TextField
 * asTextInput 转换成TextInput
 * asRichTextField 转换成RichTextField
