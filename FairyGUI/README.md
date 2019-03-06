@@ -34,6 +34,8 @@ local ui = require "ui"
 * extension(包名, 组件名) 组件子类化
 * hitTest(float, float) 点击测试传入坐标的控件
 * hidePopup() 关闭所有弹出
+* globalToLocal(x, y) 全局坐标转换为UI坐标
+* localToGlobal(x, y) UI坐标转换为全局坐标
 
 ## 常用类
 
