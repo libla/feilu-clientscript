@@ -30,7 +30,7 @@
     },
     "github": {
       "url": "https://github.com/libla/feilu-clientscript"
-    }
+    },
     "prism": {
       "ignore": [
         "mermaid",
